@@ -1,9 +1,9 @@
-## Olá! Sou Edgar L. de Lima
+## Hii! My name is Edgar L. de Lima
 
-- 🔭 Hoje trabalho com Análise e Ciência de dados.
-- 🌱 Estudando SQL e NoSQL.
-- 👯 Aberto a colaboração.
-- 💬 Pergunte-me sobre estatística e ecologia quantitativa.
+- 🔭 I am working with theoretical ecology, data analysis/Science.
+- 🌱 Studying: SQL and NoSQL.
+- 👯 Open to collaboration.
+- 💬 Ask me about statistics and quantitative ecology.
 
 <div align="center">
   <a href="https://https://github.com/edgar-lima">
